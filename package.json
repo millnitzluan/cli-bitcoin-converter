@@ -31,19 +31,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luanmillnitz/cli-bitcoin-converter.git"
+    "url": "git+https://github.com/millnitzluan/cli-bitcoin-converter.git"
   },
   "keywords": [
     "js",
     "tdd",
     "library"
   ],
-  "author": "Luan Millnitz <luanmillnitz@gmail.com> (https://github.com/luanmillnitz)",
+  "author": "Luan Millnitz <luanmillnitz@gmail.com> (https://github.com/millnitzluan)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luanmillnitz/cli-bitcoin-converter/issues"
+    "url": "https://github.com/millnitzluan/cli-bitcoin-converter/issues"
   },
-  "homepage": "https://github.com/luanmillnitz/cli-bitcoin-converter#readme",
+  "homepage": "https://github.com/millnitzluan/cli-bitcoin-converter#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
